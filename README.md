@@ -1,3 +1,5 @@
+![Adrien’s Lab — Medicine. Motion. Discovery.](adrien-lab-banner.png)
+
 <div align="center">
 
 # 🧪 Adrien’s Lab

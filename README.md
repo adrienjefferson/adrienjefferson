@@ -57,8 +57,12 @@ Away from the lab, my interests include cars, gaming, and anime.
 | Minions | Lab assistants requiring close supervision |
 | GTA | An off-duty gaming favorite |
 
-## 📓 Lab Notes
+## 📓 From the Lab Notebook
 
-I’m early in my technical journey. This portfolio will grow alongside my education, projects, and experience—with room for questions, revisions, and unexpected results.
+| Collection | What’s Inside |
+|---|---|
+| [Chemistry Lab Portfolio](https://github.com/adrienjefferson/chemistry-lab-portfolio) | Six lab sets covering measurement, density, gas laws, metal oxides, significant figures, and titration |
+| [Health Science Writing & Human Performance](https://github.com/adrienjefferson/health-science-writing) | Biology, public health, health policy, and a cardiorespiratory endurance assessment |
+| [Organic Chemistry Labs](https://github.com/adrienjefferson/organic-chemistry-labs) | Melting-point analysis and recrystallization coursework |
 
 > Tonight’s plan? Learn something. Test an idea. Keep going.
